@@ -182,6 +182,7 @@
         <Parameter Name="value" Type="System.Object[]" />
       </Parameters>
       <Docs>
+        //dogs
         <param name="value">An array of objects.</param>
         <summary>This member is obsolete, and there is no replacement.</summary>
         <remarks>To be added.</remarks>
