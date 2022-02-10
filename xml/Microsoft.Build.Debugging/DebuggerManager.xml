@@ -8,7 +8,7 @@
   <AssemblyInfo>
     <AssemblyName>Microsoft.Build</AssemblyName>
     <AssemblyVersion>4.0.0.0</AssemblyVersion>
-  </AssemblyInfo>
+  </AssemblyInfo>gang
   <Base>
     <BaseTypeName>System.Object</BaseTypeName>
   </Base>
